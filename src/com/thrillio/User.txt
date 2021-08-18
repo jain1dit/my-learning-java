@@ -1,0 +1,5 @@
+1000	user0@amdocs.com	test	John	M	m	user
+1001	user1@amdocs.com	test	Sam	M	m	user
+1002	user2@amdocs.com	test	Anita	M	m	editor
+1003	user3@amdocs.com	test	Sara	M	f	editor
+1004	user4@amdocs.com	test	Dheeru	M	m	chiefeditor    	
